@@ -1,0 +1,330 @@
+year,country,ISO,SurveyYearLabel,DHS_CountryCode,CountryName,ISO3_CountryCode
+2015,Afghanistan,AFG,2015,AF,Afghanistan,AFG
+2008-09,Albania,ALB,2008-09,AL,Albania,ALB
+2017-18,Albania,ALB,2017-18,AL,Albania,ALB
+2016,Angola,AGO,2015-16,AO,Angola,AGO
+2000,Armenia,ARM,2000,AM,Armenia,ARM
+2005,Armenia,ARM,2005,AM,Armenia,ARM
+2010,Armenia,ARM,2010,AM,Armenia,ARM
+2015-16,Armenia,ARM,2015-16,AM,Armenia,ARM
+2006,Azerbaijan,AZE,2006,AZ,Azerbaijan,AZE
+2000,Bangladesh,BGD,1999-00,BD,Bangladesh,BGD
+2004,Bangladesh,BGD,2004,BD,Bangladesh,BGD
+2007,Bangladesh,BGD,2007,BD,Bangladesh,BGD
+2011,Bangladesh,BGD,2011,BD,Bangladesh,BGD
+2014,Bangladesh,BGD,2014,BD,Bangladesh,BGD
+2003-04,Bolivia (Plurinational State of),BOL,2003,BO,Bolivia,BOL
+2008,Bolivia (Plurinational State of),BOL,2008,BO,Bolivia,BOL
+2015-16,Myanmar,MMR,2015-16,MM,Myanmar,MMR
+2016-17,Burundi,BDI,2016-17,BU,Burundi,BDI
+2010,Burundi,BDI,2010,BU,Burundi,BDI
+2004,Cameroon,CMR,2004,CM,Cameroon,CMR
+2011,Cameroon,CMR,2011,CM,Cameroon,CMR
+2004,Chad,TCD,2004,TD,Chad,TCD
+2014,Chad,TCD,2014-15,TD,Chad,TCD
+2000,Colombia,COL,2000,CO,Colombia,COL
+2004-05,Colombia,COL,2005,CO,Colombia,COL
+2009-10,Colombia,COL,2010,CO,Colombia,COL
+2015,Colombia,COL,2015,CO,Colombia,COL
+2012,Comoros,COM,2012,KM,Comoros,COM
+2005,Congo,COG,2005,CG,Congo,COG
+2011-12,Congo,COG,2011-12,CG,Congo,COG
+2001,Benin,BEN,2001,BJ,Benin,BEN
+2006,Benin,BEN,2006,BJ,Benin,BEN
+2011-12,Benin,BEN,2011-12,BJ,Benin,BEN
+2017-18,Benin,BEN,2017-18,BJ,Benin,BEN
+2000,Egypt,EGY,2000,EG,Egypt,EGY
+2005,Egypt,EGY,2005,EG,Egypt,EGY
+2008,Egypt,EGY,2008,EG,Egypt,EGY
+2014,Egypt,EGY,2014,EG,Egypt,EGY
+2000,Ethiopia,ETH,2000,ET,Ethiopia,ETH
+2005,Ethiopia,ETH,2005,ET,Ethiopia,ETH
+2011,Ethiopia,ETH,2011,ET,Ethiopia,ETH
+2016,Ethiopia,ETH,2016,ET,Ethiopia,ETH
+2000,Gabon,GAB,2000,GA,Gabon,GAB
+2012,Gabon,GAB,2012,GA,Gabon,GAB
+2013,Gambia,GMB,2013,GM,Gambia,GMB
+2014,Ghana,GHA,2014,GH,Ghana,GHA
+2003,Ghana,GHA,2003,GH,Ghana,GHA
+2008,Ghana,GHA,2008,GH,Ghana,GHA
+2014-15,Guatemala,GTM,2014-15,GU,Guatemala,GTM
+2018,Guinea,GIN,2018,GN,Guinea,GIN
+2005,Guinea,GIN,2005,GN,Guinea,GIN
+2012,Guinea,GIN,2012,GN,Guinea,GIN
+2009,Guyana,GUY,2009,GY,Guyana,GUY
+2000,Haiti,HTI,2000,HT,Haiti,HTI
+2005-06,Haiti,HTI,2005-06,HT,Haiti,HTI
+2012,Haiti,HTI,2012,HT,Haiti,HTI
+2016-2017,Haiti,HTI,2016-17,HT,Haiti,HTI
+2006,Honduras,HND,2005-06,HN,Honduras,HND
+2011-12,Honduras,HND,2011-12,HN,Honduras,HND
+2005-06,India,IND,2005-06,IA,India,IND
+2015-16,India,IND,2015-16,IA,India,IND
+2002-03,Indonesia,IDN,2002-03,ID,Indonesia,IDN
+2007,Indonesia,IDN,2007,ID,Indonesia,IDN
+2012,Indonesia,IDN,2012,ID,Indonesia,IDN
+2017,Indonesia,IDN,2017,ID,Indonesia,IDN
+2017-18,Jordan,JOR,2017-18,JO,Jordan,JOR
+2002,Jordan,JOR,2002,JO,Jordan,JOR
+2007,Jordan,JOR,2007,JO,Jordan,JOR
+2012,Jordan,JOR,2012,JO,Jordan,JOR
+2003,Kenya,KEN,2003,KE,Kenya,KEN
+2008-09,Kenya,KEN,2008-09,KE,Kenya,KEN
+2014,Kenya,KEN,2014,KE,Kenya,KEN
+2000,Cambodia,KHM,2000,KH,Cambodia,KHM
+2005-06,Cambodia,KHM,2005,KH,Cambodia,KHM
+2010-11,Cambodia,KHM,2010,KH,Cambodia,KHM
+2014,Cambodia,KHM,2014,KH,Cambodia,KHM
+2012,Kyrgyzstan,KGZ,2012,KY,Kyrgyz Republic,KGZ
+2004-05,Lesotho,LSO,2004,LS,Lesotho,LSO
+2009-10,Lesotho,LSO,2009,LS,Lesotho,LSO
+2014,Lesotho,LSO,2014,LS,Lesotho,LSO
+2007,Liberia,LBR,2007,LB,Liberia,LBR
+2013,Liberia,LBR,2013,LB,Liberia,LBR
+2004,Madagascar,MDG,2003-04,MD,Madagascar,MDG
+2008-09,Madagascar,MDG,2008-09,MD,Madagascar,MDG
+2000,Malawi,MWI,2000,MW,Malawi,MWI
+2004-05,Malawi,MWI,2004,MW,Malawi,MWI
+2010,Malawi,MWI,2010,MW,Malawi,MWI
+2015-16,Malawi,MWI,2015-16,MW,Malawi,MWI
+2009,Maldives,MDV,2009,MV,Maldives,MDV
+2016-17,Maldives,MDV,2016-17,MV,Maldives,MDV
+2018,Mali,MLI,2018,ML,Mali,MLI
+2001,Mali,MLI,2001,ML,Mali,MLI
+2006,Mali,MLI,2006,ML,Mali,MLI
+2012-13,Mali,MLI,2012-13,ML,Mali,MLI
+2003-04,Morocco,MAR,2003-04,MA,Morocco,MAR
+2003-04,Mozambique,MOZ,2003,MZ,Mozambique,MOZ
+2011,Mozambique,MOZ,2011,MZ,Mozambique,MOZ
+2000,Namibia,NAM,2000,NM,Namibia,NAM
+2006-07,Namibia,NAM,2006-07,NM,Namibia,NAM
+2013,Namibia,NAM,2013,NM,Namibia,NAM
+2001,Nepal,NPL,2001,NP,Nepal,NPL
+2006,Nepal,NPL,2006,NP,Nepal,NPL
+2011,Nepal,NPL,2011,NP,Nepal,NPL
+2016,Nepal,NPL,2016,NP,Nepal,NPL
+2006,Niger,NER,2006,NI,Niger,NER
+2012,Niger,NER,2012,NI,Niger,NER
+2018,Nigeria,NGA,2018,NG,Nigeria,NGA
+2003,Nigeria,NGA,2003,NG,Nigeria,NGA
+2008,Nigeria,NGA,2008,NG,Nigeria,NGA
+2013,Nigeria,NGA,2013,NG,Nigeria,NGA
+2006-07,Pakistan,PAK,2006-07,PK,Pakistan,PAK
+2012-13,Pakistan,PAK,2012-13,PK,Pakistan,PAK
+2017-18,Pakistan,PAK,2017-18,PK,Pakistan,PAK
+2003,Philippines,PHL,2003,PH,Philippines,PHL
+2008,Philippines,PHL,2008,PH,Philippines,PHL
+2013,Philippines,PHL,2013,PH,Philippines,PHL
+2017,Philippines,PHL,2017,PH,Philippines,PHL
+2000,Rwanda,RWA,2000,RW,Rwanda,RWA
+2005,Rwanda,RWA,2005,RW,Rwanda,RWA
+2010-2011,Rwanda,RWA,2010,RW,Rwanda,RWA
+2014-15,Rwanda,RWA,2014-15,RW,Rwanda,RWA
+2005,Senegal,SEN,2005,SN,Senegal,SEN
+2010-11,Senegal,SEN,2010-11,SN,Senegal,SEN
+2014,Senegal,SEN,2014,SN,Senegal,SEN
+2015-16,Senegal,SEN,2016,SN,Senegal,SEN
+2017,Senegal,SEN,2017,SN,Senegal,SEN
+2005-06,Zimbabwe,ZWE,2005-06,ZW,Zimbabwe,ZWE
+2010-11,Zimbabwe,ZWE,2010-11,ZW,Zimbabwe,ZWE
+2015,Zimbabwe,ZWE,2015,ZW,Zimbabwe,ZWE
+2006-07,Eswatini,SWZ,2006-07,SZ,Eswatini,SWZ
+2012,Tajikistan,TJK,2012,TJ,Tajikistan,TJK
+2017,Tajikistan,TJK,2017,TJ,Tajikistan,TJK
+2013-14,Togo,TGO,2013-14,TG,Togo,TGO
+2003-04,Turkey,TUR,2003,TR,Turkey,TUR
+2008,Turkey,TUR,2008,TR,Turkey,TUR
+2013,Turkey,TUR,2013,TR,Turkey,TUR
+2001,Uganda,UGA,2000-01,UG,Uganda,UGA
+2006,Uganda,UGA,2006,UG,Uganda,UGA
+2011,Uganda,UGA,2011,UG,Uganda,UGA
+2016,Uganda,UGA,2016,UG,Uganda,UGA
+2007,Ukraine,UKR,2007,UA,Ukraine,UKR
+2013,Yemen,YEM,2013,YE,Yemen,YEM
+2018,Zambia,ZMB,2018,ZM,Zambia,ZMB
+2001-02,Zambia,ZMB,2001-02,ZM,Zambia,ZMB
+2007,Zambia,ZMB,2007,ZM,Zambia,ZMB
+2013-14,Zambia,ZMB,2013-14,ZM,Zambia,ZMB
+,,,2006-07,AO,Angola,AGO
+,,,2011,AO,Angola,AGO
+,,,1993-94,BD,Bangladesh,BGD
+,,,1996-97,BD,Bangladesh,BGD
+,,,2017-18,BD,Bangladesh,BGD
+,,,1996,BJ,Benin,BEN
+,,,1989,BO,Bolivia,BOL
+,,,1994,BO,Bolivia,BOL
+,,,1998,BO,Bolivia,BOL
+,,,1986,BR,Brazil,BRA
+,,,1991,BR,Brazil,BRA
+,,,1996,BR,Brazil,BRA
+,,,1993,BF,Burkina Faso,BFA
+,,,1998-99,BF,Burkina Faso,BFA
+,,,2003,BF,Burkina Faso,BFA
+,,,2010,BF,Burkina Faso,BFA
+,,,2014,BF,Burkina Faso,BFA
+,,,2017-18,BF,Burkina Faso,BFA
+,,,1987,BU,Burundi,BDI
+,,,2012,BU,Burundi,BDI
+,,,1991,CM,Cameroon,CMR
+,,,1998,CM,Cameroon,CMR
+,,,2018,CM,Cameroon,CMR
+,,,1994-95,CF,Central African Republic,CAF
+,,,1996-97,TD,Chad,TCD
+,,,1986,CO,Colombia,COL
+,,,1990,CO,Colombia,COL
+,,,1995,CO,Colombia,COL
+,,,1996,KM,Comoros,COM
+,,,2009,CG,Congo,COG
+,,,2007,CD,Congo Democratic Republic,COD
+,,,2013-14,CD,Congo Democratic Republic,COD
+,,,1994,CI,Cote d'Ivoire,CIV
+,,,1998-99,CI,Cote d'Ivoire,CIV
+,,,2005,CI,Cote d'Ivoire,CIV
+,,,2011-12,CI,Cote d'Ivoire,CIV
+,,,1986,DR,Dominican Republic,DOM
+,,,1991,DR,Dominican Republic,DOM
+,,,1996,DR,Dominican Republic,DOM
+,,,1999,DR,Dominican Republic,DOM
+,,,2002,DR,Dominican Republic,DOM
+,,,2007,DR,Dominican Republic,DOM
+,,,2013,DR,Dominican Republic,DOM
+,,,1987,EC,Ecuador,ECU
+,,,1988,EG,Egypt,EGY
+,,,1992,EG,Egypt,EGY
+,,,1995,EG,Egypt,EGY
+,,,2003,EG,Egypt,EGY
+,,,1985,ES,El Salvador,SLV
+,,,1988,GH,Ghana,GHA
+,,,1993,GH,Ghana,GHA
+,,,1998,GH,Ghana,GHA
+,,,2016,GH,Ghana,GHA
+,,,2019,GH,Ghana,GHA
+,,,1987,GU,Guatemala,GTM
+,,,1995,GU,Guatemala,GTM
+,,,1998-99,GU,Guatemala,GTM
+,,,1999,GN,Guinea,GIN
+,,,2005,GY,Guyana,GUY
+,,,1994-95,HT,Haiti,HTI
+,,,1992-93,IA,India,IND
+,,,1998-99,IA,India,IND
+,,,1987,ID,Indonesia,IDN
+,,,1991,ID,Indonesia,IDN
+,,,1994,ID,Indonesia,IDN
+,,,1997,ID,Indonesia,IDN
+,,,1990,JO,Jordan,JOR
+,,,1997,JO,Jordan,JOR
+,,,2009,JO,Jordan,JOR
+,,,1995,KK,Kazakhstan,KAZ
+,,,1999,KK,Kazakhstan,KAZ
+,,,1989,KE,Kenya,KEN
+,,,1993,KE,Kenya,KEN
+,,,1998,KE,Kenya,KEN
+,,,2015,KE,Kenya,KEN
+,,,1997,KY,Kyrgyz Republic,KGZ
+,,,1986,LB,Liberia,LBR
+,,,2009,LB,Liberia,LBR
+,,,2011,LB,Liberia,LBR
+,,,2016,LB,Liberia,LBR
+,,,1992,MD,Madagascar,MDG
+,,,1997,MD,Madagascar,MDG
+,,,2011,MD,Madagascar,MDG
+,,,2013,MD,Madagascar,MDG
+,,,2016,MD,Madagascar,MDG
+,,,1992,MW,Malawi,MWI
+,,,2012,MW,Malawi,MWI
+,,,2014,MW,Malawi,MWI
+,,,2017,MW,Malawi,MWI
+,,,1987,ML,Mali,MLI
+,,,1995-96,ML,Mali,MLI
+,,,2010,ML,Mali,MLI
+,,,2015,ML,Mali,MLI
+,,,1987,MX,Mexico,MEX
+,,,2005,MB,Moldova,MDA
+,,,1987,MA,Morocco,MAR
+,,,1992,MA,Morocco,MAR
+,,,1997,MZ,Mozambique,MOZ
+,,,2009,MZ,Mozambique,MOZ
+,,,2015,MZ,Mozambique,MOZ
+,,,2018,MZ,Mozambique,MOZ
+,,,1992,NM,Namibia,NAM
+,,,1996,NP,Nepal,NPL
+,,,1998,NC,Nicaragua,NIC
+,,,2001,NC,Nicaragua,NIC
+,,,1992,NI,Niger,NER
+,,,1998,NI,Niger,NER
+,,,1990,NG,Nigeria,NGA
+,,,2010,NG,Nigeria,NGA
+,,,2015,NG,Nigeria,NGA
+,,,1986,OS,Nigeria (Ondo State),
+,,,1990-91,PK,Pakistan,PAK
+,,,2016-18,PG,Papua New Guinea,PNG
+,,,1990,PY,Paraguay,PRY
+,,,1986,PE,Peru,PER
+,,,1991-92,PE,Peru,PER
+,,,1996,PE,Peru,PER
+,,,2000,PE,Peru,PER
+,,,2004-06,PE,Peru,PER
+,,,2007-08,PE,Peru,PER
+,,,2009,PE,Peru,PER
+,,,2010,PE,Peru,PER
+,,,2011,PE,Peru,PER
+,,,2012,PE,Peru,PER
+,,,1993,PH,Philippines,PHL
+,,,1998,PH,Philippines,PHL
+,,,1992,RW,Rwanda,RWA
+,,,2007-08,RW,Rwanda,RWA
+,,,2013,RW,Rwanda,RWA
+,,,2017,RW,Rwanda,RWA
+,,,2008-09,ST,Sao Tome and Principe,STP
+,,,1986,SN,Senegal,SEN
+,,,1992-93,SN,Senegal,SEN
+,,,1997,SN,Senegal,SEN
+,,,2006,SN,Senegal,SEN
+,,,2008-09,SN,Senegal,SEN
+,,,2012-13,SN,Senegal,SEN
+,,,2015,SN,Senegal,SEN
+,,,2018,SN,Senegal,SEN
+,,,2019,SN,Senegal,SEN
+,,,2008,SL,Sierra Leone,SLE
+,,,2013,SL,Sierra Leone,SLE
+,,,2016,SL,Sierra Leone,SLE
+,,,2019,SL,Sierra Leone,SLE
+,,,1998,ZA,South Africa,ZAF
+,,,2016,ZA,South Africa,ZAF
+,,,1987,LK,Sri Lanka,LKA
+,,,1989-90,SD,Sudan,SDN
+,,,1991-92,TZ,Tanzania,TZA
+,,,1996,TZ,Tanzania,TZA
+,,,1999,TZ,Tanzania,TZA
+,,,2003-04,TZ,Tanzania,TZA
+,,,2004-05,TZ,Tanzania,TZA
+,,,2007-08,TZ,Tanzania,TZA
+,,,2010,TZ,Tanzania,TZA
+,,,2011-12,TZ,Tanzania,TZA
+,,,2015-16,TZ,Tanzania,TZA
+,,,2017,TZ,Tanzania,TZA
+,,,1987,TH,Thailand,THA
+,,,2009-10,TL,Timor-Leste,TLS
+,,,2016,TL,Timor-Leste,TLS
+,,,1988,TG,Togo,TGO
+,,,1998,TG,Togo,TGO
+,,,2017,TG,Togo,TGO
+,,,1987,TT,Trinidad and Tobago,TTO
+,,,1988,TN,Tunisia,TUN
+,,,1993,TR,Turkey,TUR
+,,,1998,TR,Turkey,TUR
+,,,1988-89,UG,Uganda,UGA
+,,,1995,UG,Uganda,UGA
+,,,2009,UG,Uganda,UGA
+,,,2014-15,UG,Uganda,UGA
+,,,2018-19,UG,Uganda,UGA
+,,,1996,UZ,Uzbekistan,UZB
+,,,1997,VN,Vietnam,VNM
+,,,2002,VN,Vietnam,VNM
+,,,2005,VN,Vietnam,VNM
+,,,1991-92,YE,Yemen,YEM
+,,,1992,ZM,Zambia,ZMB
+,,,1996,ZM,Zambia,ZMB
+,,,1988,ZW,Zimbabwe,ZWE
+,,,1994,ZW,Zimbabwe,ZWE
+,,,1999,ZW,Zimbabwe,ZWE

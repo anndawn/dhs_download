@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome file</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h3 id="download-dhs-files-and-join-modules">Download DHS Files and Join Modules</h3>
+<h4 id="process">Process</h4>
+<ul>
+<li>run <a href="http://main.py">main.py</a></li>
+<li>check output_info folder, update the <em><strong>hhs_dhs_join.csv</strong></em>
+<ul>
+<li>manully match the <em><strong>year</strong></em> column with <em><strong>SurveyYearLabel</strong></em> columns on conditions where the year seem the same. For example, where HHS data submission says year 2015-16, but DHS year label is 2016.</li>
+<li>save the updated files as <em><strong>hhs_dhs_join_updated.csv</strong></em></li>
+<li>an example is given in the <em><strong>output_info//hhs_dhs_join_updated_example.csv</strong></em></li>
+</ul>
+</li>
+<li>run <a href="http://main.py">main.py</a> again</li>
+</ul>
+<h4 id="explanation-of-data-files">Explanation of data files</h4>
+<h5 id="survey-file-formats">Survey file formats</h5>
+<ul>
+<li>download all needed files in the stata format into stata_files folder</li>
+<li>some stata files couldn’t be read by pyreadstat (for now, two surveys have this problem)</li>
+<li>these survey data files will be downloaded again but in sas format, in the sas_files folder</li>
+<li>then the module join for these surveys will be performed using the read in sas files</li>
+<li>If survey data files fail to read in either sas or stata format, these surveys will be printed out</li>
+<li>The process are automated, user just need to follow the above <strong>Process section</strong></li>
+</ul>
+<h6 id="other-data-folder">Other Data Folder</h6>
+<ul>
+<li><strong>source_data//urlslist_139855</strong> are the download url generated from DHS website</li>
+<li><em><strong>result_csv</strong></em> folder contain
+<ul>
+<li><em><strong>meta.csv</strong></em> metadata for all surveys</li>
+<li>literacy join results for each survey</li>
+</ul>
+</li>
+</ul>
+</div>
+</body>
+
+</html>
